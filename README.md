@@ -11,7 +11,7 @@ The solution of the Technical test made with 💚 by [Anfercode
 
 # Dependencies.
 
-- Docker version 20.10.17 :snake:
+- Docker version 20.10.17 🐋
 - make :computer: (optional: there is a section to execute the project without make)
 
 ## Run Locally
